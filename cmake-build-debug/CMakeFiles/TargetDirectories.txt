@@ -1,0 +1,2 @@
+/home/alumno/Repaso-Primer-Parcial-PRGIII/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alumno/Repaso-Primer-Parcial-PRGIII/cmake-build-debug/CMakeFiles/edit_cache.dir
