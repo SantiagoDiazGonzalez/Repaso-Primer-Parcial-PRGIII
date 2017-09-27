@@ -1,1 +1,4 @@
-CMakeLists.txt not found in /home/alumno/Repaso-Primer-Parcial-PRGIII
+"D:\Programas\Archivos de programa\JetBrains\CLion 2017.2.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\di\Desktop\REPASO
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/di/Desktop/REPASO/cmake-build-debug

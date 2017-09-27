@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/di/Desktop/REPASO/2-4/Lista2.h
+../Nodo.h
+C:/Users/di/Desktop/REPASO/Nodo.h
+
+C:/Users/di/Desktop/REPASO/2-4/main.cpp
+iostream
+-
+Lista2.h
+C:/Users/di/Desktop/REPASO/2-4/Lista2.h
+
+C:/Users/di/Desktop/REPASO/Nodo.h
+iostream
+-
+
